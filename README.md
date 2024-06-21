@@ -39,8 +39,11 @@ Pasta IoT - Todos os arquidos relacionados a coleta de dados e sistema emergenci
  
 ## Instalação e Uso
 Hardware: Instale o Arduino com o sensor DS18B20.
+
 Software: Instale Python e as bibliotecas NumPy e Matplotlib.
+
 Coleta de dados: Execute o código do Arduino para coletar dados de temperatura.
+
 Análise de dados: Execute o código Python para processar os dados e gerar gráficos.
 
 ## Contribuições
