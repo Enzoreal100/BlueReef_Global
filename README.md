@@ -31,7 +31,7 @@ Nas versões finais do projeto, pretendemos integrar uma base de dados abrangent
 O protótipo atual utiliza um Arduino com um sensor DS18B20 para coletar dados de temperatura da água. Os dados são coletados manualmente, e o software em Python, utilizando as bibliotecas NumPy e Matplotlib, processa os dados e gera gráficos para análise.
 
 Arquivos
-Pasta Frontend - Todos os arquidos relacionados a Landing Page
+Pasta Frontend - Todos os arquidos relacionados a Landing Page e o sistema de Cadastro/Login
 
 Pasta Data_Analysis - Todos os arquidos relacionados a análise de dados em Python
 
