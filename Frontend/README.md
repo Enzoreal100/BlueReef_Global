@@ -1,9 +1,7 @@
 # GS-BlueReef
 # Integrantes
-Gustavo Pasquini Lucas RM:555454
+Gustavo Pasquini Lucas 
 
+Enzo Gaião Real 
 
-Enzo Gaião Real RM:557943
-
-
-Vitor Couto Victorino:554965
+Vitor Couto Victorino
