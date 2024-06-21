@@ -49,7 +49,7 @@ Coleta de dados: Execute o código do Arduino para coletar dados de temperatura.
 Análise de dados: Execute o código Python para processar os dados e gerar gráficos.
 
 ## Contribuições
-Contribuições para o desenvolvimento do projeto são bem-vindas. Entre em contato com o desenvolvedor para mais informações.
+Contribuições para o desenvolvimento do projeto são bem-vindas. Entre em contato com um desenvolvedor para mais informações.
 
 ## Licença
 Este projeto está licenciado sob a licença MIT.
