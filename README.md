@@ -34,13 +34,18 @@ O protótipo atual utiliza um Arduino com um sensor DS18B20 para coletar dados d
 
 ## Arquivos
 Pasta Frontend - Todos os arquivos relacionados a Landing Page do Site
+
 Data_Analysis - Todos os arquivos relacionados a análise de dados em Python.
+
 Pasta IoT - Todos os arquivos relacionados a coleta de dados e sistema de emergência com Arduino
 
 ## Instalação e Uso
 Hardware: Instale o Arduino com o sensor DS18B20.
+
 Software: Instale Python e as bibliotecas NumPy e Matplotlib.
+
 Coleta de dados: Execute o código do Arduino para coletar dados de temperatura.
+
 Análise de dados: Execute o código Python para processar os dados e gerar gráficos.
 
 ## Contribuições
