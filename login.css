@@ -1,0 +1,91 @@
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+  :root{
+    --cor-border: #ccc;
+    --cor-bg-container:  antiquewhite;
+    --cor-texto-padrao: black;
+    --cor-fundo-input: #fdfae7;
+    --cor-botao-hover: #d7f091;
+    --cor-clicavel: #007bff;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+      font-family: "Ubuntu", sans-serif;
+      margin: 0;
+      padding: 0;
+      background-image: url("imagens/7SYx.gif");
+      background-size: 100vw 110vh;
+      background-repeat: no-repeat;
+    }
+    
+    .login,
+    .registro {
+      width: 25rem;
+      margin: 12.5rem auto;
+      padding: 1.875rem;
+      border: 1px solid var(--cor-border);
+      border-radius: 10px;
+      background-color: var(--cor-bg-container)
+  
+    }
+    
+    .login h3,
+    .registro h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .login form,
+    .registro form {
+      display: flex;
+      flex-direction: column;
+    }
+    
+    .login form input,
+    .registro form input {
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid var(--cor-fundo-input);
+      border-radius: 3px;
+    }
+    
+    .login form button,
+    .registro form button {
+      background-color: var(--cor-fundo-input);
+      color: var(--cor-texto-padrao);
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.5s;
+    }
+    
+    .login form button:hover,
+    .registro form button:hover {
+      background-color: var(--cor-botao-hover)
+    }
+    
+    .login p,
+    .registro p {
+      text-align: center;
+      margin-top: 10px;
+    }
+    
+    .login a,
+    .registro a {
+      color: var(--cor-clicavel);
+      text-decoration: none;
+    }
+    
+    .registro #numerosAdicionais input {
+      margin-bottom: 5px;
+    }
+    
+    .registro label {
+      margin-bottom: 5px;
+    }
